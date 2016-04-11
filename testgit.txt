@@ -1,3 +1,4 @@
 <script>
-   alert ("Hello world")
+   var Name = prompt('Whats your Name')
+   alert ("Hello world and + Name")
 </script>
