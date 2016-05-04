@@ -1,5 +1,5 @@
 <script>
-   var Name = prompt('Whats your Name')
-   alert ("Hello world and + Name")
-   alert'hi my friend'
+   var Name = prompt('Whats your Name;')
+   alert ("Hello world and + Name;")
+   alert'hi my friend;'
 </script>
