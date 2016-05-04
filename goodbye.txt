@@ -1,0 +1,4 @@
+<SCRIPT>
+alert'goodbye'
+alert'goodbye'
+</script>
