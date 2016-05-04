@@ -1,5 +1,11 @@
 <script>
+<<<<<<< HEAD
    var Name = prompt('Whats your Name')
-   alert ("Hello world and + Name")
-πεκοπενσ
+   alert ("Hello world and + Name;")
+πεκοπενσ;
+=======
+   var Name = prompt('Whats your Name;')
+   alert ("Hello world and + Name;")
+   alert'hi my friend;'
+>>>>>>> master;
 </script>
